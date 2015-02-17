@@ -10,7 +10,7 @@ Covalic: https://github.com/InsightSoftwareConsortium/covalic/
 
 Requirements
 ------------
-ITK
+ITK: http://www.itk.org/
 
 Compilation
 -----------
@@ -21,4 +21,6 @@ make
 
 Usage
 -----
+```
 ./validateLabelImages-ISLES truth.nii[.gz] test.nii[.gz]
+```
