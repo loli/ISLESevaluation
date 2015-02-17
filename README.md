@@ -14,8 +14,10 @@ ITK
 
 Compilation
 -----------
+```
 cmake .
 make
+```
 
 Usage
 -----
