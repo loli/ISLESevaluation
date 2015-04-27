@@ -22,5 +22,10 @@ make
 Usage
 -----
 ```
-./validateLabelImages-ISLES truth.nii[.gz] test.nii[.gz]
+LINUX and MAC
+./validateLabelImages-ISLES truth.nii[.gz] test.nii[.gz] evaluationresults.json (optional)
+
+WINDOWS
+validateLabelImages-ISLES.exe truth.nii[.gz] test.nii[.gz] evaluationresults.json (optional)
+
 ```
