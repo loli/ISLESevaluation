@@ -2,7 +2,7 @@
 ISLESevaluation
 ###############
 
-Evaluation script for the ISLES challenge 2015 (www.isles-challenge.org).
+Evaluation script for the ISLES 2015 and 2016 challenges (www.isles-challenge.org).
 
 Background libarary
 -------------------
